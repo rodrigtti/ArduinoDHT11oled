@@ -1,2 +1,3 @@
 # ArduinoDHT11oled
- This is the repository for code and schematic docs of DHTOLED project
+This is the repository for the code and schematic documentation of the DHTOLED project.
+Watch the tutorial at this link:
